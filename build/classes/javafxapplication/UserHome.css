@@ -1,0 +1,8 @@
+.textfield{
+-fx-background-color: transparent;
+-fx-border-color:linear-gradient(white,whitesmoke);
+-fx-text-fill: linear-gradient(blueviolet,violet);
+}
+.background{
+ -fx-background-color:linear-gradient(cyan,skyblue);
+}
