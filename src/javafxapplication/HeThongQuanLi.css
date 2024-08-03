@@ -1,0 +1,46 @@
+.toplabel {
+    -fx-text-alignment: center;
+    -fx-background-color: transparent;
+    -fx-font-family: "Times New Roman", serif; 
+    -fx-font-size: 30px;
+}
+.topheader {
+    -fx-text-alignment: center;
+    -fx-background-color: transparent;
+    -fx-font-family: "Times New Roman", serif; 
+    -fx-font-size: 40px;
+    -fx-text-fill: linear-gradient(skyblue,whitesmoke);
+}
+.choicebox {
+    -fx-background-color: transparent; 
+    -fx-border-style: dotted;
+}
+
+.choiceboxlabel {
+    -fx-text-alignment: center;
+    -fx-background-color: transparent; 
+    -fx-font-family: "Times New Roman", serif; 
+    -fx-font-size: 15px;
+}
+
+.category-axis .axis-label {
+    -fx-font-size: 10pt; 
+    -fx-rotate: 60; 
+    -fx-text-alignment: center; 
+}
+
+.number-axis .axis-label {
+    -fx-font-size: 10pt;
+}
+
+.bar-chart .chart-bar {
+    -fx-background-color: #87CEEB; 
+}
+
+.pie-chart {
+    -fx-legend-visible: true; 
+}
+
+.scrollpane {
+    -fx-background-color: transparent;
+}
