@@ -1,0 +1,15 @@
+.background{
+    -fx-background-color:azure;
+    -fx-border-color: linear-gradient(whitesmoke,grey);
+}
+.pane{
+   -fx-background-color: linear-gradient(lightcoral,blueviolet); 
+   -fx-border-color: black;
+   
+}
+.label{
+    -fx-text-fill: yellow;
+    -fx-font-size: 20px;
+    -fx-font-family: "Arial";
+    
+}
