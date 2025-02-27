@@ -1,9 +1,0 @@
-.background{
- -fx-background-color: linear-gradient(aliceblue,whitesmoke);   
-}
-.logoutbutton{
- -fx-font-size:15px;
- -fx-text-fill: black;
- -fx-background-fills: transparent;
--fx-font-family:"Arial";
-}
